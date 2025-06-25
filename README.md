@@ -17,12 +17,12 @@ Predicting employee turnover using HR data.
 ---
 
 ### 2. [Yelp Restaurant Recommendation System](yelp_recommender/Yelp_RecommendationSystem.ipynb)
-Personalized content-based restaurant recommendation system.
+Personalized content-based restaurant recommendation system and incorporated a data visualization.
 
 - **Goal:** Recommend restaurants based on user preferences using Yelp data.
 - **Approach:** Feature extraction from business attributes and reviews; cosine similarity scoring.
 - **EDA Notebook:** See [EDA.ipynb](yelp_recommender/EDA.ipynb) for the data exploration and preprocessing steps.
-- **Skills Highlighted:** Text processing, recommendation systems, cosine similarity, EDA.
+- **Skills Highlighted:** Text processing, recommendation systems, cosine similarity, EDA, data visualization, data analysis.
 
 ---
 
